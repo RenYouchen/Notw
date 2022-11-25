@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0d3e9eb7f417279",
+            "id": "19109930eff9388b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "那個無聊但又必須做（的樣子）的Arduino/2.md",
+                "file": "TIRT/l298n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fff932f9a1c2667e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIRT/HW-094.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,12 +93,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "229e90dcb3a8fbc6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "986403bfb9dc9f06",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "那個無聊但又必須做（的樣子）的Arduino/2.md",
+                "file": "TIRT/l298n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "那個無聊但又必須做（的樣子）的Arduino/2.md",
+                "file": "TIRT/l298n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,20 +146,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "那個無聊但又必須做（的樣子）的Arduino/2.md"
+                "file": "TIRT/l298n.md"
               }
             }
-          },
-          {
-            "id": "a98c9e428aa9d38d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,13 +159,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a98c9e428aa9d38d",
+  "active": "19109930eff9388b",
   "lastOpenFiles": [
-    "那個無聊但又必須做（的樣子）的Arduino/1.md",
-    "那個無聊但又必須做（的樣子）的Arduino/NOTW (I MEAN NOTE.md",
-    "那個無聊但又必須做（的樣子）的Arduino/0.md",
-    "關於我從零開始學習那酷酷的markdown/首先是那個酷酷的標題owo.md",
+    "TIRT/HW-094.md",
+    "TIRT/l298n.md",
+    "TIRT/車子本體.md",
+    "Pasted image 20221125113340.png",
+    "TIRT/Module 2x H-bridge with L298N rev02.md",
     "酷酷的APCS練習uwu/zerojudge c290 APCS 2017-0304-1秘密差.md",
+    "關於我從零開始學習那酷酷的markdown/首先是那個酷酷的標題owo.md",
     "2022-10-19.md"
   ]
 }
